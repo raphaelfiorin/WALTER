@@ -5,7 +5,7 @@
 - [x] Find MX Records
 - [x] Find TXT Records
 - [x] Find JAVASCRIPT files
-- [x] Filter HTTP code from Domain and Subdomain
+- [x] Filtering HTTP code from Domain and Subdomain
 
 ## 📫 Contribuindo com o WALTER:
 Para contribuir com WALTER, siga estas etapas:
